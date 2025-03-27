@@ -53,7 +53,7 @@ Refresh the page, and your notes will still be there!
 
 🌍 Live Demo
 
-Click here to view the live project
+Click https://kshitij578.github.io/Notes-App/ to view the live project
 
 
 💡 Feel free to contribute! If you have ideas for improvements, submit a pull request. 🚀
