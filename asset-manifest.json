@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Notes-App/static/css/main.71c799d6.css",
+    "main.js": "/Notes-App/static/js/main.c568e616.js",
+    "static/media/pocket-notes-svg.png": "/Notes-App/static/media/pocket-notes-svg.ae4f3675052dd5f802c5.png",
+    "index.html": "/Notes-App/index.html",
+    "main.71c799d6.css.map": "/Notes-App/static/css/main.71c799d6.css.map",
+    "main.c568e616.js.map": "/Notes-App/static/js/main.c568e616.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71c799d6.css",
+    "static/js/main.c568e616.js"
+  ]
+}
